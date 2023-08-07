@@ -2,3 +2,4 @@
 print("hello world")
 print("Foss practical on Github")
 print("fycs batch A")
+print("AMC")
